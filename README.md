@@ -1,4 +1,4 @@
-# DESAFIO-XADRES
+# DESAFIO-XADREz
 Simulação dos movimentos da Torre, Bispo e Rainha em C
 
 # Movimentando as Peças do Xadrez
