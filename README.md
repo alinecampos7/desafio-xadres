@@ -1,4 +1,4 @@
-# desafio-xadres
+# DESAFIO-XADRES
 Simulação dos movimentos da Torre, Bispo e Rainha em C
 
 # Movimentando as Peças do Xadrez
@@ -19,8 +19,3 @@ Praticar a lógica de programação utilizando as estruturas de repetição bás
 - Bispo: move-se 5 casas na diagonal para cima e à direita (estrutura while)
 - Rainha: move-se 8 casas para a esquerda (estrutura do-while)
 
-## Como compilar e executar
-
-```bash
-gcc xadrez.c -o xadrez
-./xadrez
